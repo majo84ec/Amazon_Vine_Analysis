@@ -6,6 +6,12 @@ In this project,we will pick one of datasets reviews and use PySpark to perform 
 
 ## Results:
 
+Paid:
+![image](https://user-images.githubusercontent.com/120151872/233803685-067ec17c-fc44-4f4d-bfb1-26c30fe7d2bf.png)
+
+Unpaid:
+![image](https://user-images.githubusercontent.com/120151872/233803777-dd884761-ce29-46ed-b6af-be295d09122f.png)
+
 Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid).
 
 Summary:
